@@ -1,0 +1,17 @@
+.mainPageInfo {
+    display: block;
+    text-align: center;
+    width: 50%;
+    height: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.bmarceaux_headshot {
+    border-radius: 100px;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
